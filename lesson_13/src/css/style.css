@@ -45,6 +45,7 @@ body {
 }
 
 .main input{
+	padding: 10px;
 	border-radius: 2px;
 	width: 260px;
 	background-color: #ebf4f4;
