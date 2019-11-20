@@ -1,0 +1,73 @@
+html {
+  background-color: #ebf4f4;
+}
+p,
+input {
+  font-family: "Arial", sans-serif;
+  font-size: 12px;
+}
+.form {
+  margin-top: 111px;
+  margin-left: 131px;
+  height: 409px;
+  width: 353px;
+  border: solid 1px #cfdede;
+  background-color: #ffffff;
+}
+.ribbon p {
+  margin-top: -10px;
+  margin-left: 32px;
+  padding: 4px 10px 8px 10px;
+  font-weight: 800;
+  display: inline-block;
+  color: #ffffff;
+  background-color: #01b3b3;
+  text-align: center;
+  text-transform: uppercase;
+}
+.btn {
+  text-align: center;
+}
+.string {
+  margin-top: 19px;
+  margin-left: 30px;
+}
+.string input {
+  color: #aaafaf;
+  background-color: #ebf4f4;
+  border: 1px solid #cfdede;
+  width: 272px;
+  height: 18px;
+  padding: 8px;
+}
+.string span {
+  font-weight: 800;
+  color: #01c1c1;
+}
+.string p {
+  font-weight: 900;
+}
+.email {
+  margin-top: 25px;
+}
+.password {
+  margin-top: -6px;
+}
+.btn {
+  margin-top: 37px;
+}
+.btn button {
+  margin-top: -1px;
+  font-size: 16px;
+  font-weight: 800;
+  height: 50px;
+  width: 289px;
+  border: none;
+  border-radius: 4px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #01c1c1;
+}
+button:hover {
+  cursor: pointer;
+}

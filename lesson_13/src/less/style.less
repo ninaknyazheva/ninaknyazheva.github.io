@@ -1,0 +1,78 @@
+@border-color: #cfdede;
+@background: #ebf4f4;
+@light: #ffffff;
+@ribbon: #01b3b3;
+@input-color: #aaafaf;
+@button-color: #01c1c1;
+html{
+	background-color: @background;
+}
+p, input{
+	font-family: "Arial", sans-serif;
+	font-size: 12px;
+}
+.form{
+	margin-top: 111px;
+	margin-left: 131px;
+	height: 409px;
+	width: 353px;
+	border: solid 1px @border-color;
+	background-color: @light;
+}
+.ribbon p{
+	margin-top: -10px;
+	margin-left: 32px;
+	padding: 4px 10px 8px 10px;
+	font-weight: 800;
+	display: inline-block;
+	color: @light;
+	background-color: #01b3b3;
+	text-align: center;
+	text-transform: uppercase;
+}
+.btn{
+	text-align: center;
+}
+.string{
+	margin-top: 19px;
+	margin-left: 30px;
+& input{
+	color: @input-color;
+	background-color: @background;
+	border: 1px solid @border-color;
+	width: 272px;
+	height: 18px;
+	padding: 8px;
+}
+& span{
+	font-weight: 800;
+	color: @button-color;
+}
+& p{
+	font-weight: 900;
+}
+}
+.email{
+	margin-top: 25px;
+}
+.password{
+	margin-top: -6px;
+}
+.btn{
+	margin-top: 37px;
+& button{
+	margin-top: -1px;
+	font-size: 16px;
+	font-weight: 800;
+	height: 50px;
+	width: 289px;
+	border: none;
+	border-radius: 4px;
+	text-transform: uppercase;
+	color: @light;
+	background-color: @button-color;
+}
+}
+button:hover{
+	cursor: pointer;
+}
