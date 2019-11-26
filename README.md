@@ -19,5 +19,7 @@
 
 [Урок 14](https://ninaknyazheva.github.io/lesson_14/index.html "Перейти по ссылке")  - Шрифты
 
+[Практика. Часть 1.](https://ninaknyazheva.github.io/project/src/index.html "Перейти по ссылке") - Практика. Шапка.
+
 
 
