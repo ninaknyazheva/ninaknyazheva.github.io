@@ -27,5 +27,7 @@
 
 [Практика. Часть 2.](https://ninaknyazheva.github.io/project%202/src/index.html "Перейти по ссылке") - Практика. Верстка экрана
 
+[Практика. Часть 3.](https://ninaknyazheva.github.io/project_3/src/index.html "Перейти по ссылке") - Практика. Эффекты при наведении и адаптив первого экрана
+
 
 
