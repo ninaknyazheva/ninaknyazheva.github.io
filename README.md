@@ -23,12 +23,12 @@
 
 [Урок 16](https://ninaknyazheva.github.io/lesson_16/src/index.html "Перейти по ссылке") - Слайдер
 
+[Урок 17](https://ninaknyazheva.github.io/lesson_17/src/index.html "Перейти по ссылке") - Всплывающие окна
+
 [Практика. Часть 1.](https://ninaknyazheva.github.io/project/src/index.html "Перейти по ссылке") - Практика. Верстка шапка
 
 [Практика. Часть 2.](https://ninaknyazheva.github.io/project%202/src/index.html "Перейти по ссылке") - Практика. Верстка экрана
 
 [Практика. Часть 3.](https://ninaknyazheva.github.io/project_3/src/index.html "Перейти по ссылке") - Практика. Эффекты при наведении и адаптив первого экрана
 
-[Практика. Часть 4.](https://ninaknyazheva.github.io/project_4/src/index.html "Перейти по ссылке") - Практика. Верстка блока с преимуществами. Слайдер.
-
-
+[Практика. Часть 4.](https://ninaknyazheva.github.io/project_4/src/index.html "Перейти по ссылке") - Практика. Верстка блока с преимуществами. Слайдер
