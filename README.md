@@ -29,5 +29,6 @@
 
 [Практика. Часть 3.](https://ninaknyazheva.github.io/project_3/src/index.html "Перейти по ссылке") - Практика. Эффекты при наведении и адаптив первого экрана
 
+[Практика. Часть 4.](https://ninaknyazheva.github.io/project_4/src/index.html "Перейти по ссылке") - Практика. Верстка блока с преимуществами. Слайдер.
 
 
