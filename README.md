@@ -25,6 +25,10 @@
 
 [Урок 17](https://ninaknyazheva.github.io/lesson_17/src/index.html "Перейти по ссылке") - Всплывающие окна
 
+[Урок 18.1](https://ninaknyazheva.github.io/lesson_18.1/src/index.html "Перейти по ссылке") - Аккордеон
+
+[Урок 18.2](https://ninaknyazheva.github.io/lesson_18.2/src/index.html "Перейти по ссылке") - Табы
+
 [Практика. Часть 1.](https://ninaknyazheva.github.io/project/src/index.html "Перейти по ссылке") - Практика. Верстка шапка
 
 [Практика. Часть 2.](https://ninaknyazheva.github.io/project%202/src/index.html "Перейти по ссылке") - Практика. Верстка экрана
