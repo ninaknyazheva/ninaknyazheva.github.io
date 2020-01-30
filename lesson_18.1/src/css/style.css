@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('Ubuntu-Bold.eot');
+  src: url('Ubuntu-Bold.eot?#iefix') format('embedded-opentype'), url('Ubuntu-Bold.woff2') format('woff2'), url('Ubuntu-Bold.woff') format('woff'), url('Ubuntu-Bold.ttf') format('truetype'), url('Ubuntu-Bold.svg#Ubuntu-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ubuntu-Bold';
+  src: url('Ubuntu-Bold.eot');
+  src: url('Ubuntu-Bold.eot?#iefix') format('embedded-opentype'), url('Ubuntu-Bold.woff2') format('woff2'), url('Ubuntu-Bold.woff') format('woff'), url('Ubuntu-Bold.ttf') format('truetype'), url('Ubuntu-Bold.svg#Ubuntu-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+body {
+  font-family: "Ubuntu", sans-serif;
+  background: url(../img/bg.jpg) center repeat;
+  background-attachment: fixed;
+}
+.question {
+  margin-top: 8rem;
+  margin-bottom: 5rem;
+  text-align: center;
+  color: #0bbaf0;
+}
+.question-header {
+  font-family: "Ubuntu-Bold", sans-serif;
+  text-transform: uppercase;
+}
+.question-header h1 {
+  margin-bottom: -1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+}
+.question-header h2 {
+  font-size: 2.4rem;
+}
+.question-header p {
+  color: #c4c4c4;
+  margin-top: -1rem;
+}
+.content {
+  -webkit-transform: translateX(17%);
+          transform: translateX(17%);
+}
+.panel-group {
+  width: 73rem;
+}
+.panel-default > .panel-heading {
+  padding-top: 2.4rem;
+  height: 6rem;
+  background-color: #0bbaf0;
+}
+.panel-title > a {
+  font-size: 2rem;
+  color: #ffffff;
+  text-decoration: none;
+}
+.panel-title > a:hover {
+  text-decoration: none;
+}
+.panel-title > a:visited {
+  text-decoration: none;
+}
+.panel-title > a:active {
+  text-decoration: none;
+}
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+  font-size: 1.8rem;
+  border: 2pt solid #c4c4c4;
+  border-top-color: #ffffff;
+}
