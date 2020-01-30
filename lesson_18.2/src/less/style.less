@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('MyriadPro-Regular.eot');
+    src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MyriadPro-Regular.woff2') format('woff2'),
+        url('MyriadPro-Regular.woff') format('woff'),
+        url('MyriadPro-Regular.ttf') format('truetype'),
+        url('MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@dark-text: #000000;
+@light-text: #ffffff;
+@border-color: #03a5da;
+@ask-password: #c51f03;
+@box-color: #6f6d6d;
+.mpro(){
+  font-family: "Myriad Pro", sans-serif;
+}
+
+body{
+  background: url(../img/bg.jpg) top no-repeat;
+  background-size: 100%;
+  .mpro();
+}
+.container{
+  margin-top: 10rem;
+  transform: translateX(20%);
+}
+.main{
+
+  &-input{
+    display: block;
+    margin: 0 0 2rem 6rem;
+    padding: 2rem;
+    width: 48rem;
+    height: 6rem;
+    font-size: 2.4rem;
+    color: @light-text;
+    background:url(../img/input.png) center no-repeat;
+    border: none;
+  }
+  &-form{
+    transform: translateY(30%);
+    p{
+      font-size: 1.7rem;
+      font-weight: 600;
+    }
+    .ask{
+      margin: 1rem 0 0 8rem;
+      color: @ask-password;
+    }
+    .box{
+      margin: 4rem 0 0 7rem;
+      color: @box-color;
+      input{
+        transform: translateY(25%);
+        width: 1.7rem;
+        height: 1.7rem;
+      }
+    }
+  }
+}
+.reg-form{
+  transform: translateY(20%);
+}
+.tab-content{
+  width: 66rem;
+  height: 45rem;
+  background-color: @dark-text;
+  border: 2rem solid @border-color;
+}
+.nav-tabs{
+  width: 66rem;
+
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+  color: @light-text;
+  background-color: @border-color;
+}
+.nav-tabs{
+  a{
+    font-size: 2.4rem;
+    font-weight: 700;
+    color:  @dark-text;
+    background-color: @light-text;
+  }
+}
