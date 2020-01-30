@@ -20,8 +20,9 @@
 }
 
 body{
-  background: url(../img/bg.jpg) top no-repeat;
+  background: url(../img/bg.jpg) center repeat;
   background-size: 100%;
+  background-attachment: fixed;
   .mpro();
 }
 .container{
@@ -85,5 +86,31 @@ body{
     font-weight: 700;
     color:  @dark-text;
     background-color: @light-text;
+  }
+}
+.button{
+  margin-left: 51rem;
+}
+.enter-button{
+  width: 16rem;
+  height: 6rem;
+  z-index: 99;
+  font-size: 2.8rem;
+  color: @light-text;
+  font-weight: 600;
+  background: url(../img/btn_enter.png) center no-repeat;
+  background-size: cover;
+  border: none;
+  transform: translateY(-160%);
+}
+
+@media(max-width: 1200px){
+  body{
+      background-size: 150%;
+  }
+}
+@media (max-width: 900px) {
+    body{
+      background-size: 230%;
   }
 }
