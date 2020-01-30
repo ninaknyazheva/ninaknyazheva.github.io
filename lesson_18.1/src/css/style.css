@@ -44,7 +44,7 @@ body {
           transform: translateX(17%);
 }
 .panel-group {
-  width: 73rem;
+  width: 75rem;
 }
 .panel-default > .panel-heading {
   padding-top: 2.4rem;
