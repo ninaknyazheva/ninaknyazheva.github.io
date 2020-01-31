@@ -9,7 +9,6 @@
 <body>
 <div class="container">
     <div>
-
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#enter" role="tab" data-toggle="tab">Вход</a></li>
@@ -19,26 +18,30 @@
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane fade in active" id="enter">
       <div class="main-form">
+      	<form action="#" id="database">
         <input class="main-input" type="text" placeholder="Ваше имя">
         <input class="main-input" type="text" placeholder="Пароль">
-        <p class="ask">Забыли пароль?</p>
+        <a class="ask" href="#">Забыли пароль?</a>
         <p class="box"><input type="checkbox"> Напомнить мне</p>
-      </div>
-      
+      </form>
+       </div>
     </div>
     <div role="tabpanel" class="tab-pane fade" id="reg">
       <div class="main-form">
+      	<form action="#" id="database">
         <input class="main-input reg-form" type="text" placeholder="Ваше имя">
         <input class="main-input reg-form" type="text" placeholder="Пароль">
         <p class="box reg-form"><input type="checkbox"> Напомнить мне</p>
+    </form>
       </div>
     </div>
   </div>
   <div class="button col-xs-offset-6 col-xs-6">
-    <button href="#" class="enter-button">
+    <button type="submit" form="database" class="enter-button">
       Войти
     </button>
   </div>
+
 
 
   </div>

@@ -44,7 +44,7 @@ body{
   }
   &-form{
     transform: translateY(30%);
-    p{
+    p,a{
       font-size: 1.7rem;
       font-weight: 600;
     }
@@ -101,7 +101,16 @@ body{
   background: url(../img/btn_enter.png) center no-repeat;
   background-size: cover;
   border: none;
+  outline: none;
   transform: translateY(-160%);
+}
+ .enter-button:hover{
+    background: url(../img/btn-2.png) center no-repeat;
+    background-size: cover;
+    outline: none;
+  }
+.enter-button:active{
+  outline: none;
 }
 
 @media(max-width: 1200px){
@@ -112,5 +121,10 @@ body{
 @media (max-width: 900px) {
     body{
       background-size: 230%;
+  }
+}
+@media (max-width: 600px) {
+    body{
+      background-size: 400%;
   }
 }

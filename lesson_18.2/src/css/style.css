@@ -31,7 +31,8 @@ body {
   -webkit-transform: translateY(30%);
           transform: translateY(30%);
 }
-.main-form p {
+.main-form p,
+.main-form a {
   font-size: 1.7rem;
   font-weight: 600;
 }
@@ -87,8 +88,17 @@ body {
   background: url(../img/btn_enter.png) center no-repeat;
   background-size: cover;
   border: none;
+  outline: none;
   -webkit-transform: translateY(-160%);
           transform: translateY(-160%);
+}
+.enter-button:hover {
+  background: url(../img/btn-2.png) center no-repeat;
+  background-size: cover;
+  outline: none;
+}
+.enter-button:active {
+  outline: none;
 }
 @media (max-width: 1200px) {
   body {
@@ -98,5 +108,10 @@ body {
 @media (max-width: 900px) {
   body {
     background-size: 230%;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    background-size: 400%;
   }
 }
