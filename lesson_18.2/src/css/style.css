@@ -6,9 +6,6 @@
   font-style: normal;
 }
 body {
-  background: url(../img/bg.jpg) center repeat;
-  background-size: 100%;
-  background-attachment: fixed;
   font-family: "Myriad Pro", sans-serif;
 }
 .container {
@@ -99,19 +96,4 @@ body {
 }
 .enter-button:active {
   outline: none;
-}
-@media (max-width: 1200px) {
-  body {
-    background-size: 150%;
-  }
-}
-@media (max-width: 900px) {
-  body {
-    background-size: 230%;
-  }
-}
-@media (max-width: 600px) {
-  body {
-    background-size: 400%;
-  }
 }
