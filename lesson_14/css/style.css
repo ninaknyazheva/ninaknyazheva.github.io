@@ -1,41 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans&display=swap&subset=cyrillic');
 @font-face {
-    font-family: 'Bebas Neue';
-    src: url('BebasNeueRegular.eot');
-    src: url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
-        url('BebasNeueRegular.woff2') format('woff2'),
-        url('BebasNeueRegular.woff') format('woff'),
-        url('BebasNeueRegular.ttf') format('truetype'),
-        url('BebasNeueRegular.svg#BebasNeueRegular') format('svg');
-    font-weight: normal;
+    font-family: 'Campus Marine Up';
+    src: url('CampusMarineUp.eot');
+    src: url('CampusMarineUp.eot?#iefix') format('embedded-opentype'),
+        url('CampusMarineUp.woff2') format('woff2'),
+        url('CampusMarineUp.woff') format('woff'),
+        url('CampusMarineUp.ttf') format('truetype'),
+        url('CampusMarineUp.svg#CampusMarineUp') format('svg');
+    font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Lato';
-    src: url('Lato-Regular.eot');
-    src: url('Lato-Regular.eot?#iefix') format('embedded-opentype'),
-        url('Lato-Regular.woff2') format('woff2'),
-        url('Lato-Regular.woff') format('woff'),
-        url('Lato-Regular.ttf') format('truetype'),
-        url('Lato-Regular.svg#Lato-Regular') format('svg');
+    font-family: 'EuroScript';
+    src: url('EuroScript.eot');
+    src: url('EuroScript.eot?#iefix') format('embedded-opentype'),
+        url('EuroScript.woff2') format('woff2'),
+        url('EuroScript.woff') format('woff'),
+        url('EuroScript.ttf') format('truetype'),
+        url('EuroScript.svg#EuroScript') format('svg');
     font-weight: normal;
     font-style: normal;
 }
-
 
 .f-1{
 	font-family: 'Open Sans', sans-serif;
 }
 
 .f-2{
-	font-family: 'Bebas Neue', sans-serif;
+	font-family: 'Campus Marine Up', sans-serif;
 }
 .f-3{
 	font-family: 'Lato', sans-serif;
 }
 .f-4{
-	font-family: 'Lobster', sans-serif;
+	font-family: 'EuroScript', sans-serif;
 }
 .text-box{
 	padding-top: 2rem;
