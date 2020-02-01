@@ -1,15 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans&display=swap&subset=cyrillic');
-@font-face {
-    font-family: 'Campus Marine Up';
-    src: url('CampusMarineUp.eot');
-    src: url('CampusMarineUp.eot?#iefix') format('embedded-opentype'),
-        url('CampusMarineUp.woff2') format('woff2'),
-        url('CampusMarineUp.woff') format('woff'),
-        url('CampusMarineUp.ttf') format('truetype'),
-        url('CampusMarineUp.svg#CampusMarineUp') format('svg');
-    font-weight: bold;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans&display=swap');
 
 @font-face {
     font-family: 'EuroScript';
@@ -24,17 +13,17 @@
 }
 
 .f-1{
-	font-family: 'Open Sans', sans-serif;
+	font-family: "Open Sans", sans-serif;
 }
 
 .f-2{
-	font-family: 'Campus Marine Up', sans-serif;
+	font-family: 'Literata', serif;
 }
 .f-3{
-	font-family: 'Lato', sans-serif;
+	font-family: "EuroScript", sans-serif;
 }
 .f-4{
-	font-family: 'EuroScript', sans-serif;
+	font-family: "Lobster", sans-serif;
 }
 .text-box{
 	padding-top: 2rem;
