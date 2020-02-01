@@ -38,3 +38,6 @@
 [Практика. Часть 4.](https://ninaknyazheva.github.io/project_4/src/index.html "Перейти по ссылке") - Практика. Верстка блока с преимуществами. Слайдер
 
 [Практика. Часть 5.](https://ninaknyazheva.github.io/project_5/src/index.html "Перейти по ссылке") -  Практика. Верстка всплывающих окон на сайте
+
+[Практика. Часть 6.](https://ninaknyazheva.github.io/project_6/src/index.html "Перейти по ссылке") -  Практика. Верстка блока с ценами
+
