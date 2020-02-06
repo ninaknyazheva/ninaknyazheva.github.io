@@ -23,7 +23,7 @@ input {
   font-size: 2.4rem;
   color: #ffffff;
   background: url(../img/input.png) center;
-  background-size: 150%;
+  background-size: 180%;
   border: none;
   border-radius: 8px;
 }
@@ -37,7 +37,7 @@ input {
 .main-form p,
 .main-form a {
   display: block;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   font-weight: 600;
 }
 .main-form .ask {
@@ -57,7 +57,7 @@ input {
 }
 .dark-box {
   display: block;
-  height: 2.4rem;
+  height: 2rem;
   background-color: #000000;
 }
 .enter-button button {
