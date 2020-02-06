@@ -1,0 +1,97 @@
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url('MyriadPro-Regular.eot');
+  src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'), url('MyriadPro-Regular.woff2') format('woff2'), url('MyriadPro-Regular.woff') format('woff'), url('MyriadPro-Regular.ttf') format('truetype'), url('MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: "Myriad Pro", sans-serif;
+}
+input {
+  outline: none;
+}
+.container {
+  margin-top: 10rem;
+}
+.main-input {
+  margin-bottom: 3rem;
+  display: block;
+  width: 100%;
+  padding: 2rem;
+  height: 6rem;
+  font-size: 2.4rem;
+  color: #ffffff;
+  background: url(../img/input.png) center;
+  background-size: 150%;
+  border: none;
+  border-radius: 8px;
+}
+.main-input-1 {
+  margin-top: 8rem;
+}
+.main-ask-box {
+  height: 100%;
+  margin-left: 2rem;
+}
+.main-form p,
+.main-form a {
+  display: block;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+.main-form .ask {
+  margin-bottom: 1rem;
+  color: #c51f03;
+}
+.main-form .box {
+  margin-top: 6rem;
+  color: #6f6d6d;
+}
+.main-form .box input {
+  -webkit-transform: translateY(25%);
+          transform: translateY(25%);
+  margin-right: 1rem;
+  width: 1.6rem;
+  height: 1.6rem;
+}
+.dark-box {
+  display: block;
+  height: 2.4rem;
+  background-color: #000000;
+}
+.enter-button button {
+  width: 20rem;
+  height: 5rem;
+  font-size: 2.4rem;
+  color: #ffffff;
+  background: url(../img/btn_enter.png) center no-repeat;
+  background-size: 100%;
+  border: none;
+}
+.enter-button button:hover {
+  background: url(../img/btn_hover.png) center no-repeat;
+  background-size: 100%;
+}
+.tab-content {
+  height: 48rem;
+  background-color: #000000;
+  border: 2rem solid #03a5da;
+  border-radius: 10px;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  color: #ffffff;
+  background-color: #03a5da;
+  border-radius: 5px;
+}
+.nav-tabs a {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #000000;
+  background-color: #ffffff;
+}
+.enter-1 {
+  margin-left: 3rem;
+}
