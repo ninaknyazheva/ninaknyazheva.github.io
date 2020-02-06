@@ -8,63 +8,83 @@
 body {
   font-family: "Myriad Pro", sans-serif;
 }
+input {
+  outline: none;
+}
 .container {
   margin-top: 10rem;
-  -webkit-transform: translateX(20%);
-          transform: translateX(20%);
 }
 .main-input {
+  margin-bottom: 3rem;
   display: block;
-  margin: 0 0 2rem 6rem;
+  width: 100%;
   padding: 2rem;
-  width: 48rem;
   height: 6rem;
   font-size: 2.4rem;
   color: #ffffff;
-  background: url(../img/input.png) center no-repeat;
+  background: url(../img/input.png) center;
+  background-size: 150%;
   border: none;
+  border-radius: 8px;
 }
-.main-form {
-  -webkit-transform: translateY(30%);
-          transform: translateY(30%);
+.main-input-1 {
+  margin-top: 8rem;
+}
+.main-ask-box {
+  height: 100%;
+  margin-left: 2rem;
 }
 .main-form p,
 .main-form a {
+  display: block;
   font-size: 1.7rem;
   font-weight: 600;
 }
 .main-form .ask {
-  margin: 1rem 0 0 8rem;
+  margin-bottom: 1rem;
   color: #c51f03;
 }
 .main-form .box {
-  margin: 4rem 0 0 7rem;
+  margin-top: 6rem;
   color: #6f6d6d;
 }
 .main-form .box input {
   -webkit-transform: translateY(25%);
           transform: translateY(25%);
-  width: 1.7rem;
-  height: 1.7rem;
+  margin-right: 1rem;
+  width: 1.6rem;
+  height: 1.6rem;
 }
-.reg-form {
-  -webkit-transform: translateY(20%);
-          transform: translateY(20%);
+.dark-box {
+  display: block;
+  height: 2.4rem;
+  background-color: #000000;
+}
+.enter-button button {
+  width: 20rem;
+  height: 5rem;
+  font-size: 2.4rem;
+  color: #ffffff;
+  background: url(../img/btn_enter.png) center no-repeat;
+  background-size: 100%;
+  border: none;
+}
+.enter-button button:hover {
+  background: url(../img/btn_hover.png) center no-repeat;
+  background-size: 100%;
 }
 .tab-content {
-  width: 66rem;
-  height: 45rem;
+  height: 48rem;
   background-color: #000000;
   border: 2rem solid #03a5da;
-}
-.nav-tabs {
-  width: 66rem;
+  border-radius: 10px;
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #ffffff;
   background-color: #03a5da;
+  border-radius: 5px;
 }
 .nav-tabs a {
   font-size: 2.4rem;
@@ -72,28 +92,6 @@ body {
   color: #000000;
   background-color: #ffffff;
 }
-.button {
-  margin-left: 51rem;
-}
-.enter-button {
-  width: 16rem;
-  height: 6rem;
-  z-index: 99;
-  font-size: 2.8rem;
-  color: #ffffff;
-  font-weight: 600;
-  background: url(../img/btn_enter.png) center no-repeat;
-  background-size: cover;
-  border: none;
-  outline: none;
-  -webkit-transform: translateY(-160%);
-          transform: translateY(-160%);
-}
-.enter-button:hover {
-  background: url(../img/btn-2.png) center no-repeat;
-  background-size: cover;
-  outline: none;
-}
-.enter-button:active {
-  outline: none;
+.enter-1 {
+  margin-left: 3rem;
 }
