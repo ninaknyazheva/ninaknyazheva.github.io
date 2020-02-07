@@ -43,3 +43,5 @@
 
 [Практика. Часть 6.](https://ninaknyazheva.github.io/project_6/src/index.html "Перейти по ссылке") -  Практика. Верстка блока с ценами
 
+[Практика. Часть 7.](https://ninaknyazheva.github.io/project_7/src/index.html "Перейти по ссылке") -  Верстка блока с отзывами
+
