@@ -1,0 +1,27 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.section {
+  display: table;
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+}
+.wrap-block h1 {
+  font-size: 8rem;
+  text-transform: uppercase;
+}
+.wrap-block p {
+  font-size: 1.8rem;
+  font-style: italic;
+}
