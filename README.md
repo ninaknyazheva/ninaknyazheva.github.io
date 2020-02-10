@@ -47,3 +47,4 @@
 
 [Практика. Часть 7.](https://ninaknyazheva.github.io/project_7/src/index.html "Перейти по ссылке") -  Верстка блока с отзывами
 
+[Практика. Часть 8.](https://ninaknyazheva.github.io/project_8/src/index.html "Перейти по ссылке") -  Готовый блок с отзывами + нормальный вид сайта на экранах от 320px
