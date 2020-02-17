@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap&subset=cyrillic');
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  font-family: "Open-Sans", sans-serif;
+}
+.content {
+  margin-top: 5rem;
+}
+.map {
+  width: 100%;
+}
+.contacts {
+  position: absolute;
+  padding: 8% 2%;
+  height: 55rem;
+  z-index: 999;
+  text-align: center;
+  font-size: 1.5rem;
+  background-color: #c60b0b;
+  color: #ffffff;
+}
+.contacts h2 {
+  margin-bottom: 10%;
+  font-size: 2.5rem;
+}
+.contacts p {
+  line-height: 2;
+  margin-bottom: 10%;
+}
+.contacts a {
+  padding: 1%;
+  color: #ffffff;
+}
+.contacts .link {
+  text-decoration: underline;
+}
+.bottom {
+  padding: 2rem 0;
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  background-color: #ffffff;
+}
+.bottom .logo {
+  text-align: center;
+  padding-top: 1rem;
+}
+.bottom .logo p {
+  margin-top: 1rem;
+  text-align: left;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+.bottom .logo .img {
+  text-align: right;
+}
+.bottom .logo .img img {
+  padding-right: 2rem;
+  margin-top: 1.5rem;
+}
+.bottom .logo .text {
+  padding-left: 2rem;
+  text-align: left;
+}
+.bottom .certification {
+  text-align: center;
+  padding: 3.5rem 0;
+  color: #666666;
+  font-size: 1.3rem;
+}
+.bottom .address a {
+  margin-top: 1rem;
+  margin-bottom: .8rem;
+  display: block;
+  color: inherit;
+  font-size: 2rem;
+  font-weight: 900;
+}
+.bottom .address small {
+  font-size: 1.4rem;
+}
