@@ -52,5 +52,7 @@
 [Практика. Часть 8.](https://ninaknyazheva.github.io/project_8/src/index.html "Перейти по ссылке") -  Готовый блок с отзывами + нормальный вид сайта на экранах от 320px
 
 [Практика. Часть 9.](https://ninaknyazheva.github.io/project_9/src/index.html "Перейти по ссылке") - "Схема работы" и "Все включено"
+
 [Практика. Часть 10.](https://ninaknyazheva.github.io/project_10/src/index.html "Перейти по ссылке") -  блок "Развеиваем сомнения"
+
 [Практика. Часть 11.](https://ninaknyazheva.github.io/project_11/src/index.html "Перейти по ссылке") -  блок "Материалы"
