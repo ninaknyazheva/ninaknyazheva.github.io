@@ -56,3 +56,5 @@
 [Практика. Часть 10.](https://ninaknyazheva.github.io/project_10/src/index.html "Перейти по ссылке") -  блок "Развеиваем сомнения"
 
 [Практика. Часть 11.](https://ninaknyazheva.github.io/project_11/src/index.html "Перейти по ссылке") -  блок "Материалы"
+
+[Практика. Часть 12.](https://ninaknyazheva.github.io/project_12/src/index.html "Перейти по ссылке") -  "Экскурсия" и "Доп. услуги"
