@@ -35,6 +35,8 @@
 
 [Урок 22](https://ninaknyazheva.github.io/lesson_22/src/index.html "Перейти по ссылке") - Гео-карта
 
+[Урок 25](https://ninaknyazheva.github.io/lesson_25/src/index.html "Перейти по ссылке") - Формы на сайте
+
 [Практика. Часть 1.](https://ninaknyazheva.github.io/project/src/index.html "Перейти по ссылке") - Практика. Верстка шапка
 
 [Практика. Часть 2.](https://ninaknyazheva.github.io/project%202/src/index.html "Перейти по ссылке") - Практика. Верстка экрана
