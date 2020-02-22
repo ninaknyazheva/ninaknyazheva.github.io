@@ -1,0 +1,25 @@
+body{
+  color: #fff;
+  background: #4CAF50;
+}
+.container{
+  display: table;
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+}
+.thank-you{
+  display: table-cell;
+  vertical-align: middle;
+}
+.thank-you h1{
+  display: block;
+  font-size: 5rem;
+}
+.thank-you a{
+  display: block;
+  padding: 1rem 0;
+  font-size: 2rem;
+  text-decoration: none;
+  color: #fff;
+}
