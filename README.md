@@ -60,3 +60,5 @@
 [Практика. Часть 11.](https://ninaknyazheva.github.io/project_11/src/index.html "Перейти по ссылке") -  блок "Материалы"
 
 [Практика. Часть 12.](https://ninaknyazheva.github.io/project_12/src/index.html "Перейти по ссылке") -  "Экскурсия" и "Доп. услуги"
+
+[Практика. Часть 13.](https://ninaknyazheva.github.io/project_13/src/index.html "Перейти по ссылке") -  "Контакты" и "Подвал"
