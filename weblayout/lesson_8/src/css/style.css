@@ -1,0 +1,17 @@
+.container h1{
+    font-size: 36px;
+
+    margin-top: 137px;
+    margin-bottom: 123px;
+
+    text-transform: uppercase;
+}
+img{
+    width: auto;
+    height: 136px;
+}
+p{
+    font-size: 17px;
+
+    padding: 10px;
+}
